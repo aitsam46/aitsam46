@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building a Website showcasing my Portfolio as my class assignment.<br>👯 I’m looking to collaborate on new projects that are beginner friendly and can add up to my exposure.<br>🌱 I’m currently not bounding myself to coding and I'm learning and exploring different CS fields such as Database Designing, Cybersecurity, Website Design and Development.<br>💬 Contact me @ aitsamgujjar046@gmail.com<br>
+🔭 I’m currently working on building a Website showcasing my Portfolio as my class assignment.<br>👯 I’m looking to collaborate on new projects that are beginner friendly and can add up to my exposure.<br>🌱 I’m currently not bounding myself to coding only and I'm learning and exploring different CS fields such as Database Designing, Cybersecurity, Website Design and Development.<br>💬 Contact me @ aitsamgujjar046@gmail.com<br>
 
 
 ## 🌐 Socials:
