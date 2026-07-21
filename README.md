@@ -6,32 +6,7 @@
 </p>
 
 ---
-
-### About Me
-
-- I'm a Python developer with a solid grasp of Object-Oriented Programming (OOP)
-- Currently building my skills in Data Science, Machine Learning, and AI
-- Work regularly with NumPy, Pandas, and Matplotlib for data analysis and visualization
-- Focused on building practical, well-structured projects rather than just following tutorials
-- Open to collaborating on Python and machine learning projects
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
----
-
-### 🎯 Currently Learning
+### Me: 
 
 ```python
 class Aitsam:
@@ -48,6 +23,22 @@ class Aitsam:
 me = Aitsam()
 me.say_hi()
 ```
+
+
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
 
 ---
 
